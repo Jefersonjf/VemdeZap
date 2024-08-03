@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VemdeZap.Domain.Entities.Campanha">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entities\Campanha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VemdeZap.Domain.Entities.Contato">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entities\Contato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VemdeZap.Domain.Entities.Envio">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAUAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Envio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VemdeZap.Domain.Entities.Grupo">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Entities\Grupo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Nicho" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VemdeZap.Domain.Entities.Usuario">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>Entities\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VemdeZap.Domain.Entities.Base.EntityBase">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Base\EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="VemdeZap.Domain.Enums.Enumnicho">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Enumnicho.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

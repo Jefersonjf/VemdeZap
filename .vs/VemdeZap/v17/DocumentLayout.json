@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MICRO\\source\\repos\\VemdeZap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD473A01-F02A-49DB-A283-661208C15D62}|VemdeZap.Domain\\VemdeZap.Domain.csproj|c:\\users\\micro\\source\\repos\\vemdezap\\vemdezap.domain\\commands\\usuario\\adicionarusuario\\adicionarusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD473A01-F02A-49DB-A283-661208C15D62}|VemdeZap.Domain\\VemdeZap.Domain.csproj|solutionrelative:vemdezap.domain\\commands\\usuario\\adicionarusuario\\adicionarusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD473A01-F02A-49DB-A283-661208C15D62}|VemdeZap.Domain\\VemdeZap.Domain.csproj|c:\\users\\micro\\source\\repos\\vemdezap\\vemdezap.domain\\commands\\usuario\\adicionarusuario\\adicionarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD473A01-F02A-49DB-A283-661208C15D62}|VemdeZap.Domain\\VemdeZap.Domain.csproj|solutionrelative:vemdezap.domain\\commands\\usuario\\adicionarusuario\\adicionarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdicionarUsuarioResponse.cs",
+              "DocumentMoniker": "C:\\Users\\MICRO\\source\\repos\\VemdeZap\\VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioResponse.cs",
+              "RelativeDocumentMoniker": "VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioResponse.cs",
+              "ToolTip": "C:\\Users\\MICRO\\source\\repos\\VemdeZap\\VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioResponse.cs",
+              "RelativeToolTip": "VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:05:29.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdicionarUsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\MICRO\\source\\repos\\VemdeZap\\VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioRequest.cs",
+              "RelativeDocumentMoniker": "VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\MICRO\\source\\repos\\VemdeZap\\VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioRequest.cs",
+              "RelativeToolTip": "VemdeZap.Domain\\Commands\\Usuario\\AdicionarUsuario\\AdicionarUsuarioRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:05:22.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
